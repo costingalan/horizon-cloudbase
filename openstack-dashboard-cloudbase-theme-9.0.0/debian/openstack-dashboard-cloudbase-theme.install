@@ -1,0 +1,2 @@
+cloudbase_theme.py /usr/share/openstack-dashboard/openstack_dashboard/
+static /usr/share/openstack-dashboard-cloudbase-theme/
